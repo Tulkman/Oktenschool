@@ -1,0 +1,33 @@
+body, html {
+    background: bisque;
+}
+
+.b {
+    color: #2c0550;
+}
+
+.a {
+    color: orangered;
+}
+
+h1 {
+    color: orangered;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+ol {
+    text-align: justify;
+}
+
+img {
+    border: orangered solid 10px;
+}
+
+a {
+    text-decoration: none;
+    text-decoration-color: black;
+}
