@@ -30,7 +30,6 @@ body, html {
     overflow: auto;
 }
 .picture {
-    border: orangered solid 3px;
     display: flex;
     justify-content: center;
 }
