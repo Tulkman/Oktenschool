@@ -1,0 +1,65 @@
+body, html {
+    background: bisque;
+}
+.intro {
+    max-height: 700px ;
+    width: 1280px;
+    background: darkkhaki;
+    border: 5px solid purple;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    }
+.biography {
+    max-height: 700px ;
+    width: 1280px;
+    background: cadetblue ;
+    border: 5px solid lightskyblue;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+.list {
+    max-height: 700px ;
+    width: 1280px;
+    background: #487423;
+    border: 5px solid lightskyblue;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    overflow: auto;
+}
+.picture {
+    border: orangered solid 3px;
+    display: flex;
+    justify-content: center;
+}
+.b {
+    color: #2c0550;
+}
+
+.a {
+    color: orangered;
+}
+
+h1, h2 {
+    color: orangered;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+ol {
+    text-align: justify;
+}
+
+img {
+    border: orangered solid 3px;
+}
+
+a {
+    text-decoration: none;
+    text-decoration-color: black;
+}
