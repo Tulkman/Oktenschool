@@ -1,0 +1,129 @@
+/*style for 1.jpg*/
+.main {
+    background: grey;
+    height: 400px;
+    width: 500px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+
+
+
+}
+
+.box {
+    height: 188px;
+    text-align: center;
+
+}
+
+.a {
+    width: 488px;
+    background: green;
+    margin: 6px 6px 3px 6px;
+}
+
+.b {
+    width: 338px;
+    background: cornflowerblue;
+    margin:3px 3px 6px 6px ;
+}
+
+.c {
+    width: 144px;
+    background: yellow;
+    margin:3px 6px 6px 3px
+}
+/*style for 2-1.jpg*/
+.main21 {
+    background: grey;
+    height: 700px;
+    width: 500px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.header {
+    height: 100px;
+    width: 500px;
+    background: olive;
+}
+.menu {
+    height: 500px;
+    width: 150px;
+    background: #d23fd2;
+}
+.combo {
+    height: 500px;
+    width: 350px;
+}
+.post {
+    height: 250px;
+    width: 350px;
+    background: lightskyblue;
+}
+.footer {
+    height: 100px;
+    width: 500px;
+background: darkkhaki;
+}
+/*style for 2-2.jpg*/
+.main22 {
+    background: grey;
+    height: 1200px;
+    width: 630px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.witgets {
+    height: 400px;
+    width: 630px;
+    background: cornflowerblue;
+}
+.boxx {
+    height: 200px;
+    flex-basis: 200px;
+    background:blue;
+}
+.contact {
+    height: 600px;
+    width: 630px;
+    background: cornflowerblue;
+}
+/*style for 2.jpg*/
+.main2 {
+    background: grey;
+    height: 600px;
+    width: 600px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.q {
+    height: 100px;
+    width: 600px;
+    background: cornflowerblue;
+}
+.w {
+    height: 50px;
+    width: 600px;
+    background: #36dcd0;
+}
+.e {
+    height: 400px;
+    width: 450px;
+    background: #af44cd;
+}
+.r {
+    height: 400px;
+    width: 150px;
+    background: #33a862;
+}
+.t {
+    height: 50px;
+    width: 6000px;
+    background: #ea1f73;
+}
