@@ -1,0 +1,153 @@
+/*style for 3.png*/
+.main {
+    background: grey;
+    height: 630px;
+    width: 800px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.a {
+    margin: 5px;
+    height: 100px;
+    width: 800px;
+    background: #578234;
+}
+.box {
+    margin: 5px;
+    height: 520px;
+    width: 520px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.b {
+    height: 250px;
+    width: 1000px;
+    background: #eeab1c;
+}
+.c {
+    margin: 5px;
+    height: 240px;
+    width: 150px;
+    background: #3885e0;
+}
+.d {
+    margin: 5px;
+    height: 240px;
+    width: 150px;
+    background: #3885e0;
+}
+.e {
+    margin: 5px;
+    height: 240px;
+    width: 150px;
+    background: #3885e0;
+}
+.f {
+    margin: 5px;
+    height: 505px;
+    width: 250px;
+    background: #a452ad;
+}
+/*style for 4.png*/
+.main4 {
+    background: grey;
+    height: 600px;
+    width: 800px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.a4 {
+    height: 100px;
+    width: 800px;
+    background: #578234;
+}
+.box4 {
+    height: 700px;
+    width: 350px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.b4 {
+    height: 100px;
+    width: 100px;
+    background: blue;
+}
+
+.c4 {
+    height: 100px;
+    width: 100px;
+    background: blue;
+}
+.d4 {
+    height: 100px;
+    width: 100px;
+    background: blue;
+}
+.e4 {
+    height: 100px;
+    width: 100px;
+    background: blue;
+}
+.f4 {
+    height: 100px;
+    width: 100px;
+    background: blue;
+}
+.g4 {
+    height: 100px;
+    width: 100px;
+    background: blue;
+}
+.h4 {
+    height: 500px;
+    width: 300px;
+    background: #dc35e8;
+}
+/*style for 6.png*/
+.main6 {
+    height: 850px;
+    width: 620px;
+    background: grey;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.home {
+    margin: 5px;
+    height: 400px;
+    width: 300px;
+    background: #dc35e8;
+}
+.about {
+    margin: 5px;
+    height: 400px;
+    width: 300px;
+    background: #dc35e8;
+}
+.kabobs {
+    margin: 5px;
+    height: 200px;
+    width: 600px;
+    background: #2d39bf;
+}.shishkabobs {
+     margin: 5px;
+     height: 200px;
+     width: 150px;
+     background: #289fd2;
+ }
+.bbqkabobs {
+    margin: 5px;
+    height: 200px;
+    width: 150px;
+    background: #289fd2;
+}
+.summerkabobs {
+    margin: 5px;
+    height: 200px;
+    width: 150px;
+    background: #289fd2;
+}
