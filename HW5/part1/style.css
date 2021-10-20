@@ -1,0 +1,93 @@
+/*style for 1.jpg*/
+.color {
+    background: #5e5c59;
+}
+.height396 {
+    height: 396px;
+}
+
+.main {
+    background: grey;
+    height: 608px;
+    width: 808px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+}
+.a {
+    margin: 4px 4px 2px 4px;
+    height: 200px;
+    width: 800px;
+
+}
+.container {
+    height: 400px;
+    width: 808px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    flex: 3 1 300px;
+}
+.b {
+    margin: 2px 2px 4px 4px;
+    width: 600px;
+}
+.c {
+    margin: 2px 2px 4px 2px;
+    width: 196px;
+}
+/*style for 2-1.jpg*/
+.height100 {
+    height: 100px;
+}
+.width1000 {
+    width: 600px;
+}
+.blue {
+    background: blue;
+}
+.main2-1 {
+    background: grey;
+    height: 808px;
+    width: 604px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+}
+.header {
+    margin: 2px 2px 1px 2px;
+    background: #98d914;
+}
+.box1 {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.menu {
+    margin: 1px 1px 1px 2px;
+    background: plum;
+    height: 600px;
+    width: 200px;
+}
+.box2 {
+    height: 600px;
+    width: 400px;
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: column wrap;
+}
+
+
+.post {
+    margin: 1px 2px 1px 1px;
+    height: 298px;
+    width: 400px;
+}
+.footer {
+    margin: 1px 2px 2px 2px;
+    background: #305308;
+}

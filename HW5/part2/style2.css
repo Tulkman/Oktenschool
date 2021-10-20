@@ -1,0 +1,90 @@
+/*Style for 2-2.png*/
+.blue {
+    background: blue;
+}
+.cornflowerblue {
+    background: cornflowerblue;
+}
+.react {
+    height: 250px;
+    width: 190px;
+}
+.white {
+    color: white;
+}
+.main2-2 {
+    background: white;
+    height: 800px;
+    width: 600px;
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: column wrap;
+    text-align: center;
+}
+.widgets {
+    margin-bottom: 10px;
+    height: 200px;
+    width: 600px;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.contact {
+    margin-top: 10px;
+    height: 330px;
+    width: 600px;
+}
+/*Style for 2.png*/
+.width600 {
+    width: 600px;
+}
+.height100 {
+    height: 100px;
+}
+.height310 {
+    height: 310px;
+}
+.main2 {
+    background: grey;
+    height: 600px;
+    width: 600px;
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: column wrap;
+    text-align: center;
+}
+.header {
+    width: 600px;
+    background: #2222ef;
+}
+.box1 {
+    height: 400px;
+    width: 600px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.nav {
+    background: navy;
+    height: 90px
+}
+.box2 {
+    height: 310px;
+    width: 600px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+
+}
+.main {
+    width: 450px;
+    background: cornflowerblue;
+}
+.aside {
+    width: 150px;
+    background: #6c7482;
+}
+.footer {
+    background: #06f8ef;
+}
