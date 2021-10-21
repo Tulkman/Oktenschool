@@ -48,19 +48,16 @@
 .main2 {
     background: grey;
     height: 600px;
-    width: 600px;
     display: flex;
     justify-content: flex-start;
     flex-flow: column wrap;
     text-align: center;
 }
 .header {
-    width: 600px;
     background: #2222ef;
 }
 .box1 {
     height: 400px;
-    width: 600px;
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
@@ -71,7 +68,6 @@
 }
 .box2 {
     height: 310px;
-    width: 600px;
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
