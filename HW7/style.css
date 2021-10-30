@@ -73,3 +73,109 @@ table {
     color: #FFFFFF;
     text-decoration: none;
 }
+.header__menu {
+    display: flex;
+    align-items: center;
+    padding-right: 25px;
+    height: 70px;
+    column-gap: 35px;
+}
+.header__phone {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    color: #ffffff;
+    width: 155px;
+    border-left: 2px solid #fff;
+    padding-left: 15px;
+}
+.header__contact {
+    display: flex;
+    align-items: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    column-gap: 45px;
+    }
+.header__button {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    padding: 0 19px;
+    background-color: #FF7400;
+    height: 47px;
+    border: none;
+    cursor: pointer;
+}
+.header__title {
+    font-weight: normal;
+    color: #D67E35;
+    margin-top: 203px;
+    max-width: 500px;
+        text-align: center;
+}
+.header__title h2 {
+    font-size: 50px;
+    line-height: 57px;
+    margin-left: 24px;
+
+}
+.header__title h1 {
+    font-size: 80px;
+    line-height: 92px;
+}
+.header__title p {
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 12px;
+}
+.header__title p::before,
+.header__title p::after {
+    content: "";
+    display: block;
+    width: 61px;
+    height: 2px;
+    background-color: #c4c4c4;
+}
+.header__title p::before {
+    margin-right: 10px;
+}
+.header__title p::after {
+    margin-left: 10px;
+}
+.header__main .header__button {
+    margin-top: 35px;
+   }
+.header__main_btn {
+    display: flex;
+    justify-content: center;
+}
+.nav__btn_mobile {
+    display: none;
+    width: 30px;
+    flex-direction: column;
+    row-gap: 4px;
+    }
+.nav__btn_mobile div {
+    height: 3px;
+    background: #FF7400;
+    border-radius: 30px;
+}
+.header__menu.active {
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    top: 65px;
+    background-color: #000000;
+    height: 93vh;
+    width: 100%;
+    left: -4px;
+    padding-top: 50px;
+}
