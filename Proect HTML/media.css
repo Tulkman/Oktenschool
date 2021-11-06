@@ -1,0 +1,11 @@
+@media screen and (max-width: 400px) {
+    .xx {
+        display: none;
+    }
+}
+.clock {
+    display: none;
+}
+.situate {
+    display: none;
+}
