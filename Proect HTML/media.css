@@ -2,10 +2,26 @@
     .xx {
         display: none;
     }
-}
+
 .clock {
     display: none;
 }
 .situate {
     display: none;
 }
+.box4 {
+    display: block;
+}
+    .carousel-inner img {
+        height: 30%;
+        width: 30%;
+    }
+    .carousel-inner button {
+        height: 5px;
+        width: 15px;
+    }
+    .box3  {
+        flex-wrap: wrap;
+    }
+    }
+
