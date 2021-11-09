@@ -102,13 +102,16 @@ h3 {
     line-height: 23px;
    color: #0A1A2C;
 }
+.action {
+    margin-top: 50px;
+    }
 .action_one,
 .action_two {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
-    width: 336px;
-    height: 190px;
+    width: 450px;
+    height: 220px;
     background: #F4F5FA;
     border-radius: 10px;
 
@@ -130,9 +133,11 @@ h3 {
     margin-top: 35px;
 
 }
-.more {
-    margin-top: 20px;
+.xxx {
+    height: 550px;
 }
+
+
 .btn-slide {
     width: 187px;
     height: 49px;
@@ -140,6 +145,9 @@ h3 {
     border: 2px solid #005BB9;
     box-sizing: border-box;
     border-radius: 6px;
+}
+.more {
+    margin-top: 50px;
 }
 .news {
     margin-top: 50px;

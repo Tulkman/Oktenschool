@@ -3,25 +3,49 @@
         display: none;
     }
 
-.clock {
-    display: none;
-}
-.situate {
-    display: none;
-}
-.box4 {
-    display: block;
-}
-    .carousel-inner img {
-        height: 30%;
-        width: 30%;
+    .clock {
+        display: none;
     }
+
+    .situate {
+        display: none;
+    }
+
+    .box4 {
+        display: block;
+    }
+
+    .action_one,
+    .action_two {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 400px;
+        height: 180px;
+        background: #F4F5FA;
+        border-radius: 10px;
+    }
+
+    .slider_x {
+        height: 300px;
+    }
+
+    .carousel-inner img {
+        height: 50%;
+        width: 50%;
+    }
+
     .carousel-inner button {
         height: 5px;
         width: 15px;
     }
-    .box3  {
+
+    .box3 {
         flex-wrap: wrap;
     }
+    .xxx {
+        height: 450px;
     }
+
+}
 
